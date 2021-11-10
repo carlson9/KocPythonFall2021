@@ -72,7 +72,7 @@ import re
 import os
 
 #Open a file stream and create a CSV writer object
-os.chdir('KocPython2021/inclass/day4scraping') #this will error if not in a new session at the home directory
+os.chdir('KocPythonFall2021/inclass/4scraping') #this will error if not in a new session at the home directory
 
 # What page? 
 page_to_scrape = 'https://petitions.obamawhitehouse.archives.gov/'
